@@ -1,7 +1,175 @@
+* {
+  margin: 0auto;
+  padding: 0auto; }
+
 .khung {
   width: 100%;
   height: auto;
   background: red;
   float: left; }
 
-/*# sourceMappingURL=test.css.map */
+#container {
+  margin: 0 auto;
+  height: 980px;
+  width: 70%;
+  background: pink; }
+  #container #box3 {
+    height: 980px;
+    width: 25%;
+    float: right;
+    background: white; }
+    #container #box3 #box31 {
+      height: 200px;
+      width: 98%;
+      float: left;
+      border-radius: 10px 10px 10px 10px;
+      border: 2px solid #888888;
+      background: white; }
+      #container #box3 #box31 #tieude {
+        height: 50px;
+        width: 96%;
+        float: left;
+        margin-top: 5px;
+        margin-left: 2%;
+        border-radius: 8px 8px 0px 0px;
+        background: green; }
+      #container #box3 #box31 h2 {
+        text-align: left;
+        color: white;
+        font-size: 17px;
+        margin-top: 15px;
+        margin-left: 15px; }
+      #container #box3 #box31 #menu {
+        height: 140px;
+        width: 96%;
+        float: left;
+        margin: 0;
+        margin-left: 2%; }
+        #container #box3 #box31 #menu ul {
+          width: 100%;
+          height: 95%;
+          margin: 0;
+          padding: 3px;
+          float: left;
+          list-style-type: none;
+          text-align: left; }
+        #container #box3 #box31 #menu li {
+          margin: 0;
+          float: left;
+          width: 100%;
+          height: 23%; }
+        #container #box3 #box31 #menu a {
+          margin: 0;
+          padding-top: 10px;
+          margin-left: 10px;
+          text-decoration: none;
+          text-align: center;
+          color: #888888;
+          font-size: 15px; }
+          #container #box3 #box31 #menu a:hover {
+            color: black; }
+        #container #box3 #box31 #menu hr {
+          margin: 0;
+          float: left;
+          height: 1px; }
+    #container #box3 #box32 {
+      height: 250px;
+      width: 98%;
+      float: left;
+      margin-top: 20px;
+      border-radius: 10px 10px 10px 10px;
+      border: 2px solid #888888;
+      background: white; }
+      #container #box3 #box32 #tieude {
+        height: 50px;
+        width: 96%;
+        float: left;
+        margin-top: 5px;
+        margin-left: 2%;
+        border-radius: 8px 8px 0px 0px;
+        background: green; }
+        #container #box3 #box32 #tieude h2 {
+          font-size: 17px;
+          text-align: center;
+          color: white;
+          margin-top: 15px; }
+      #container #box3 #box32 #hinh {
+        height: 190px;
+        width: 96%;
+        float: left;
+        margin: 0;
+        margin-left: 2%; }
+        #container #box3 #box32 #hinh img {
+          margin-left: 7px;
+          margin-top: 15px; }
+        #container #box3 #box32 #hinh h4 {
+          margin: 0;
+          margin-left: 10px;
+          font-size: 18px;
+          color: black; }
+        #container #box3 #box32 #hinh hr {
+          margin-top: 8px;
+          height: 0.5px; }
+    #container #box3 #box33 {
+      height: 230px;
+      width: 98%;
+      float: left;
+      margin-top: 20px;
+      border-radius: 10px 10px 10px 10px;
+      border: 2px solid #888888;
+      background: white; }
+      #container #box3 #box33 #tieude {
+        height: 50px;
+        width: 96%;
+        float: left;
+        margin-top: 5px;
+        margin-left: 2%;
+        border-radius: 8px 8px 0px 0px;
+        background: green; }
+        #container #box3 #box33 #tieude h2 {
+          font-size: 17px;
+          text-align: left;
+          color: white;
+          margin-top: 15px;
+          margin-left: 15px; }
+      #container #box3 #box33 #video {
+        height: 150px;
+        width: 96%;
+        float: left;
+        margin-top: 10px;
+        margin-left: 2%;
+        background: pink; }
+        #container #box3 #box33 #video iframe {
+          width: 100%;
+          height: 100%; }
+    #container #box3 #box34 {
+      height: 200px;
+      width: 98%;
+      float: left;
+      margin-top: 20px;
+      border-radius: 10px 10px 10px 10px;
+      border: 2px solid #888888;
+      background: white; }
+      #container #box3 #box34 #tieude {
+        height: 50px;
+        width: 96%;
+        float: left;
+        margin-top: 5px;
+        margin-left: 2%;
+        border-radius: 8px 8px 0px 0px;
+        background: green; }
+      #container #box3 #box34 h2 {
+        text-align: left;
+        color: white;
+        font-size: 17px;
+        margin-top: 15px;
+        margin-left: 15px; }
+      #container #box3 #box34 #hinh {
+        height: 120px;
+        width: 96%;
+        float: left;
+        margin-top: 4%;
+        margin-left: 2%; }
+        #container #box3 #box34 #hinh img {
+          width: 100%;
+          height: 100%; }
