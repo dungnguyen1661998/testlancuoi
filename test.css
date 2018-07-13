@@ -3,5 +3,16 @@
   height: auto;
   background: red;
   float: left; }
-
-/*# sourceMappingURL=test.css.map */
+  .khung #box2 {
+    width: 50%;
+    height: auto;
+    margin-left: 200px; }
+  .khung #box21 {
+    width: 50%;
+    height: 550px;
+    background: pink;
+    margin-left: 200px; }
+    .khung #box21 #box212 {
+      background: yellow;
+      width: 100%;
+      height: 50%; }
