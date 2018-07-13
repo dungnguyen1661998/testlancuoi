@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .khung{width:100%;height:auto;background:red;float:left}.khung .box1{float:left;width:100%;height:130px;background:#121}.khung .box1 .b1{float:left;width:100%;height:80px;background:#fff}.khung .box1 .b1 img{float:left;width:10%;height:100%;margin-right:70%}.khung .box1 .b1 .v1{float:left;width:10%;height:100%}.khung .box1 .b1 .v1 .k1{float:left;width:30%;height:80%;margin-top:5%;background:red}.khung .box1 .b1 .v1 .k1 img{width:100%;height:100%}.khung .box1 .b1 .v1 .k2{float:left;width:70%;height:100%;background:#fff}.khung .box1 .b1 .v1 .k2 p{padding-left:10px;display:block}.khung .box2{float:left;width:100%;height:50px;background:pink}.khung .box2 ul{padding:0;margin:0}.khung .box2 ul li{list-style:none}.khung .box2 ul li a{float:left;display:block;height:100%;width:14.14%;font-size:20px;color:#000;text-align:center;line-height:50px;text-decoration:none;background:#01DF3A;border:1px solid #000}.khung .box2 ul li a:hover{background:#0B610B;color:red}
 =======
 * {
@@ -177,3 +178,26 @@
           width: 100%;
           height: 100%; }
 >>>>>>> Tlinh
+=======
+#box4 {
+  width: 80%;
+  height: auto;
+  background: #00DD00;
+  margin-left: 140px;
+  margin-top: 20px;
+  padding-bottom: 40px;
+  font-family: 'Oleo Script', cursive; }
+  #box4 col-md-3 h3 {
+    margin-left: 80px;
+    margin-bottom: 50px; }
+  #box4 a {
+    text-decoration: none;
+    font-family: 'Oleo Script', cursive; }
+  #box4 img {
+    width: 300px;
+    height: 200px;
+    margin-top: 0; }
+  #box4 p {
+    font-style: italic;
+    font-family: 'Oleo Script', cursive; }
+>>>>>>> nhatquang
